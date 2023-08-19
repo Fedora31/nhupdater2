@@ -1,3 +1,8 @@
+===================================================
+##### This repository has moved to <pevhs.ch/tf2/>.
+The GitHub version will not be updater again. #####
+===================================================
+
 -- nhupdater2 --
 
 This is the second iteration of nhupdater. This version demands
